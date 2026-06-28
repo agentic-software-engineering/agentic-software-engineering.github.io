@@ -1,0 +1,18 @@
+title: Agentic Software Engineering
+description: Training and consulting on agentic software engineering
+baseurl: ""
+url: "https://agentic-software-engineering.github.io"
+
+theme: minima
+
+header_pages:
+  - training.md
+  - consulting.md
+  - contact.md
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .bundle
