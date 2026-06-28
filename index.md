@@ -32,7 +32,8 @@ practice.
 - **Hands-on.** Our material is built around real workflows — MCP, RAGs, tools, bugbots,
   skills and rules, CI integration, and end-to-end use cases.
 
-Led by [Pablo Arrighi](https://lmf.cnrs.fr/Perso/PabloArrighi) and a team of
-practitioners working at the intersection of research and engineering.
+## Team
+
+*To be done.*
 
 [See the training curriculum](/training/) &ensp;&middot;&ensp; [Consulting](/consulting/) &ensp;&middot;&ensp; [Get in touch](/contact/)
